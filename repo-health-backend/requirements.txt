@@ -1,6 +1,0 @@
-fastapi
-uvicorn
-pydantic
-litellm
-python-dotenv
-numpy
